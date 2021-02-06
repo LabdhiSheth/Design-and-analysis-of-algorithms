@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603270378 source:c:\users\labdh\onedrive\desktop\5th sem\design and analysis of algorithm\binomialheap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

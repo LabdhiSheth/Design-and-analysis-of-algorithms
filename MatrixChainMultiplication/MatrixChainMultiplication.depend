@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605031521 source:c:\users\labdh\onedrive\desktop\5th sem\design and analysis of algorithm\matrixchainmultiplication\main.c
+	<stdio.h>
+	<limits.h>
+

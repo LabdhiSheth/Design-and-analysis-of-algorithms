@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604163965 source:c:\users\labdh\onedrive\desktop\5th sem\design and analysis of algorithm\medianofmedians\main.c
+	<stdlib.h>
+	"stdio.h"
+
